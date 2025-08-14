@@ -80,6 +80,7 @@ Use a estrutura e as instruções a seguir para gerar o `README.md`.
 
 ### **Instruções Específicas**
 
+  * Apresente a resposta no formato ```````markdown ``````` e na apresentação interna de código deve seguir o uso de cinco ` para abertura de tag e fechamento. exemplo `````[linguagem] `````.
   * **Exclusão:** **Não inclua** uma seção "Como Usar" (Usage).
   * **Sempre que citar arquivos ou pastas na descrição**, use links relativos (ex: [src/](./src/)).
   * **Linguagem e Tom:** Evite frases prolixas, indiretas ou com excesso de jargões. Opte por uma linguagem direta, concisa e conversacional. Use um tom factual, com menos adjetivos e uma abordagem mais direta. Mantenha a neutralidade.
