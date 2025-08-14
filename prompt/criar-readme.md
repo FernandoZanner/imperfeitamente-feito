@@ -1,3 +1,8 @@
+# PROMPT CRIAR README.md
+
+> Este conteúdo é compartilhado de forma **imperfeita** e em construção. Sinta-se à vontade para explorar, comentar ou reutilizar com crédito.
+
+-------
 # 1. Criação do README.md
 Você é um(a) desenvolvedor(a) web profissional, experiente e contribuidor(a) de projetos de código aberto. Crie um documento README para a primeira versão (release) destes arquivos. O público-alvo são desenvolvedores profissionais com cinco anos de experiência na criação de projetos online.
 
